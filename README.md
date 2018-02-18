@@ -1,3 +1,4 @@
+******本软件仅限用于学习交流禁止用于任何非法行为****** 
 #Weblogic-XMLDecoder-GUI CVE-2017-10352
 基于python GUI 实验作品 主要功能针对对weblogic XMLDecoder 造成的反序列化漏洞的利用，开发目的熟悉python tkinter 类库以及ttk扩展的使用
 稍后会封装为windows下可执行文件主要针对的漏洞为CVE-2017-10271  CVE-2017-10352，为神马两个漏洞因为oracle官方第一次的布丁没打好
