@@ -3,12 +3,17 @@
 稍后会封装为windows下可执行文件主要针对的漏洞为CVE-2017-10271  CVE-2017-10352，为神马两个漏洞因为oracle官方第一次的布丁没打好
 
 
-https://github.com/bigsizeme/weblogic-XMLDecoder/blob/master/screenshot/screenshot.png)
+![image](https://github.com/bigsizeme/weblogic-XMLDecoder/blob/master/screenshot/screenshot.png)
 
-提交于中华民族的传统节日大年初三，本打算大年三十做个了结，但年夜饭做的有点累了，一拖就是初三了。
+P.S: 提交于中华民族的传统节日大年初三，本打算大年三十做个了结，但年夜饭做的有点累了，一拖就是初三了(有图为证)。
 
-![年夜饭](https://github.com/bigsizeme/weblogic-XMLDecoder/blob/master/screenshot/IMG_0616.JPG）
+![image](https://github.com/bigsizeme/weblogic-XMLDecoder/blob/master/screenshot/IMG_0616.JPG）
 
-特别感谢 forked from https://github.com/s3xy/CVE-2017-10271  在此基础上做的修改
+特别感谢  https://github.com/s3xy/CVE-2017-10271  在此基础上做了修改
+
+GitHub 搬运工
+
+forked fromhttps://github.com/s3xy/CVE-2017-10271
+
 
 
